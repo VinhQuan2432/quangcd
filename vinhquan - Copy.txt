@@ -1,0 +1,18 @@
+đọc tài liệu làm 
+làm asm1 1670
+chuẩn bị asm 1651, 1644
+ôn tập database
+
+
+cd Desktop
+ls
+mkdir git_training
+cd git_train
+git init
+git add or git .
+git status
+git commit -m""
+git push -u origin master
+git checkout -b new nhanh 1
+git status
+git diff
